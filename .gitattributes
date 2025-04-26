@@ -1,4 +1,5 @@
 *.asm		text
+*.lst		text
 *.txt		text
 *.xml		text
 *.cs		text
